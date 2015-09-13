@@ -1,0 +1,6 @@
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\07.PointInACircle\bin\Debug\07.PointInACircle.exe.config
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\07.PointInACircle\bin\Debug\07.PointInACircle.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\07.PointInACircle\bin\Debug\07.PointInACircle.pdb
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\07.PointInACircle\obj\Debug\07.PointInACircle.csprojResolveAssemblyReference.cache
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\07.PointInACircle\obj\Debug\07.PointInACircle.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\07.PointInACircle\obj\Debug\07.PointInACircle.pdb

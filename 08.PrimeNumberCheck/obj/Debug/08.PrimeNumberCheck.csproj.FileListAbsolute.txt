@@ -1,0 +1,6 @@
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe.config
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.pdb
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.pdb
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.csprojResolveAssemblyReference.cache

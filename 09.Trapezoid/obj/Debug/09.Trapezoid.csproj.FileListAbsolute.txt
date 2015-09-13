@@ -1,0 +1,5 @@
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\09.Trapezoid\bin\Debug\09.Trapezoid.exe.config
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\09.Trapezoid\bin\Debug\09.Trapezoid.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\09.Trapezoid\bin\Debug\09.Trapezoid.pdb
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\09.Trapezoid\obj\Debug\09.Trapezoid.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\09.Trapezoid\obj\Debug\09.Trapezoid.pdb

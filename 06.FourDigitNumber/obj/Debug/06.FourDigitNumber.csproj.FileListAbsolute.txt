@@ -1,0 +1,5 @@
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.exe.config
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.pdb
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.pdb

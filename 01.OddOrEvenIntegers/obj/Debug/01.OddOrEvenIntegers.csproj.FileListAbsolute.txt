@@ -1,0 +1,6 @@
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.exe.config
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.pdb
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.pdb

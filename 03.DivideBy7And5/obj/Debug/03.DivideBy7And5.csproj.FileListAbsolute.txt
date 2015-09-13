@@ -1,0 +1,5 @@
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.exe.config
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.pdb
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.pdb

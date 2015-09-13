@@ -1,0 +1,5 @@
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe.config
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.pdb
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.pdb
