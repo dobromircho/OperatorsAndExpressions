@@ -1,0 +1,6 @@
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\21.BitSifting\bin\Debug\21.BitSifting.exe.config
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\21.BitSifting\bin\Debug\21.BitSifting.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\21.BitSifting\bin\Debug\21.BitSifting.pdb
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\21.BitSifting\obj\Debug\21.BitSifting.csprojResolveAssemblyReference.cache
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\21.BitSifting\obj\Debug\21.BitSifting.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\21.BitSifting\obj\Debug\21.BitSifting.pdb

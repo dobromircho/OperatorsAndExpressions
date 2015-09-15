@@ -1,0 +1,6 @@
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\18.OddOrEvenSum\bin\Debug\18.OddOrEvenSum.exe.config
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\18.OddOrEvenSum\bin\Debug\18.OddOrEvenSum.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\18.OddOrEvenSum\bin\Debug\18.OddOrEvenSum.pdb
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\18.OddOrEvenSum\obj\Debug\18.OddOrEvenSum.csprojResolveAssemblyReference.cache
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\18.OddOrEvenSum\obj\Debug\18.OddOrEvenSum.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\05.OperatorsAndExpressions\05.OperatorsAndExpressions\18.OddOrEvenSum\obj\Debug\18.OddOrEvenSum.pdb

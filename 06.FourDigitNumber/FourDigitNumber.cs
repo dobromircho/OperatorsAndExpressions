@@ -19,7 +19,7 @@ class FourDigitNumber
             Console.Write(number[i]);
         }
         Console.WriteLine();
-        // First digit infront
+        // Last digit infront
         char[] digits = new char[number.Length];
         char last = number[number.Length - 1];
         digits[0] = last;

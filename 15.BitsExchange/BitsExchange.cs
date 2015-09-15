@@ -13,10 +13,11 @@ class BitsExchange
         tempNumber = n;
 
         Copy345To242526(1 << 3, 0, 3);
-        string result = (Convert.ToString(n, 2).PadLeft(32, '0'));
         
         Copy242526To345(1 << 24, 0, 24);
-        result = (Convert.ToString(n, 2).PadLeft(32, '0'));
+
+        string result = (Convert.ToString(n, 2).PadLeft(32, '0'));
+
         PrintBits(result, 5, 7, 26, 28);
         Console.WriteLine(n);
         Console.WriteLine();
@@ -29,10 +30,12 @@ class BitsExchange
         {
             mask = 1 << p;
             bit = (tempNumber & mask) != 0 ? 1 : 0;
+
             if (bit == 1)
             {
                 OneInBit(i + 3);
             }
+
             if (bit == 0)
             {
                 ZeroInBit(i + 3);
