@@ -6,7 +6,6 @@ class BitSifting
     {
         ulong number = ulong.Parse(Console.ReadLine());
         int numberOfSieves = int.Parse(Console.ReadLine());
-        ulong[] sieves = new ulong[numberOfSieves];
         int count = 0;
 
         for (int i = 0; i < numberOfSieves; i++)
